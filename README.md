@@ -54,7 +54,7 @@ Cheers!
 </p>
 
 
-[Github URL](https://lawriedrew.github.io/team-project/)
+[Github URL](https://ray0095.github.io/team-project/)
 
 ###### copyright (c) [2021] [Columbia School of Engineering]
 
